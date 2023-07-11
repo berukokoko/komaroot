@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+
+#add
+/src/.main.js
+package.json
+src/components/.ContactUser.vue
